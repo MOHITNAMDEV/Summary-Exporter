@@ -1,0 +1,6 @@
+{
+  "name": "PDF Table Summary Extractor",
+  "description": "Upload a PDF, automatically identify and extract tabular summaries using Gemini 3.5-flash, preview and edit them dynamically, apply custom styles, and export them as high-DPI crystal-clear images or download all in once as a ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
